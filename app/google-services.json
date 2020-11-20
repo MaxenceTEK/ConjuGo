@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743786106652",
+    "firebase_url": "https://conjugotest-ef121.firebaseio.com",
+    "project_id": "conjugotest-ef121",
+    "storage_bucket": "conjugotest-ef121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743786106652:android:1328cd645ccc23f82ff4d9",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743786106652-nm8i40huskt1ilfilp1mldlqknjlq6jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentification",
+            "certificate_hash": "83a5896a648bf45c549f5f67fefa3bdcd2a7a3b8"
+          }
+        },
+        {
+          "client_id": "743786106652-2sqhsj8uoeg06sso1b205d0gk694di3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydN5wvt9fOZ_iXhlT5vIgdD6FdpMSnoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743786106652-2sqhsj8uoeg06sso1b205d0gk694di3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
