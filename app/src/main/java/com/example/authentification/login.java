@@ -40,6 +40,10 @@ public class login extends AppCompatActivity {
 
 
 
+        if(fAuth.getCurrentUser() != null) {
+            startActivity(new Intent(getApplicationContext(),MainActivity.class));
+            finish();
+        }
 
 
         mCliquezIci.setOnClickListener(new View.OnClickListener() {
