@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name = "My Application"
+=======
+rootProject.name = "authentification"
+>>>>>>> 35bbabb5b9d3834f8e2facb4b31df2bf37211204

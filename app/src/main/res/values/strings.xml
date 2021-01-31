@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">My Application</string>
     <string name="title_activity_maps">Map</string>
     <string name="retour">retour</string>
@@ -15,4 +16,7 @@
     <string name="oui">Retour</string>
     <string name="button">Button</string>
     <string name="Retour">Retour</string>
+=======
+    <string name="app_name">authentification</string>
+>>>>>>> 35bbabb5b9d3834f8e2facb4b31df2bf37211204
 </resources>
